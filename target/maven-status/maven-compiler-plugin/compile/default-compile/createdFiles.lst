@@ -1,0 +1,4 @@
+com\salofy\common_security_jwt\util\JwtUtil.class
+com\salofy\common_security_jwt\CommonSecurityJwtApplication.class
+com\salofy\common_security_jwt\filters\JwtAuthenticationFilter.class
+com\salofy\common_security_jwt\config\SecurityConfig.class
